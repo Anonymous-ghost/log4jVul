@@ -8,6 +8,8 @@ jdk版本限制
 
 JNDI注入工具
 https://wwa.lanzouo.com/b09ykn6xg 密码:7hsp
+JNDI注入工具截图
+![利用工具截图](https://raw.githubusercontent.com/Anonymous-ghost/log4jVul/main/FuckTools.jpg)
 
 log4j 漏洞环境
 复现注意看java版本 
