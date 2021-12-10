@@ -4,7 +4,7 @@ jdk版本限制
 <=7u191<br/>
 <=6u201<br/>
 
-如果jdk版本大于8u181 并且tomcat版本必须是8才可以用 用高版本bypass执行cmd
+如果jdk版本大于8u181 并且tomcat版本必须是8才可以用 用高版本bypass执行cmd。本环境和工具复现专用。切勿利用工具对未授权网站进行非法攻击。由此产生的法律后果由使用者自行承担!!!
 
 JNDI注入工具
 https://wwa.lanzouo.com/b09ykn6xg 密码:7hsp
