@@ -12,3 +12,7 @@ log4j 漏洞环境
 
 漏洞演示
 ![演示](https://raw.githubusercontent.com/Anonymous-ghost/log4jVul/main/VUL.jpg)
+
+复现
+
+![复现](https://github.com/Anonymous-ghost/log4jVul/blob/main/Fuck.jpg?raw=true)
