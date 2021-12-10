@@ -6,6 +6,8 @@ jdk版本限制
 
 如果jdk版本大于8u181 并且tomcat版本必须是8才可以用 用高版本bypass执行cmd
 
+JNDI注入工具
+https://wwa.lanzouo.com/b09ykn6xg 密码:7hsp
 
 log4j 漏洞环境
 复现注意看java版本 
